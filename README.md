@@ -4,5 +4,6 @@ Streamlit interactive web app for sentiment analysis of tweets for various US ba
 
 Dataset: [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
 
+![Web app](https://github.com/Joyoshish/Sentiment-Analysis-of-Tweets-Web-App/blob/master/web-app.gif)
 
-[![Web App](http://img.youtube.com/vi/LAyjzEEX-vM/0.jpg)](http://www.youtube.com/watch?v=LAyjzEEX-vM "Web App ")
+Live preview video: [Preview web app](https://www.youtube.com/watch?v=LAyjzEEX-vM)
