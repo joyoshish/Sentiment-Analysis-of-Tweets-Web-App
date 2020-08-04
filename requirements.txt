@@ -2,3 +2,5 @@ streamlit
 plotly
 wordcloud
 matplotlib
+pandas
+numpy
